@@ -1,2 +1,2 @@
 # aieDitor
-smart text editor
+nlp based text editor
